@@ -1,0 +1,19 @@
+{
+  "name": "confwall-tweets",
+  "version": "1.0.0",
+  "description": "Echos out confwall saved tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "confwall-tweets": "./bin/index.js"
+  },
+  "prefersGlobal": true,
+  "author": "Remy Sharp",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "colors": "^1.0.3"
+  }
+}
