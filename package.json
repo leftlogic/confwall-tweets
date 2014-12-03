@@ -1,6 +1,6 @@
 {
   "name": "confwall-tweets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Echos out confwall saved tweets",
   "main": "index.js",
   "scripts": {
